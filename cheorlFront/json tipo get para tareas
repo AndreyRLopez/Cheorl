@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "estadoT": true,
+        "marcarT": true,
+        "admin": "Andrey",
+        "usuario": "Iberson",
+        "nombreT": "Tarea número uno",
+        "descripcionT": "Debe de realizar la tarea número uno siguiendo los proocolos.",
+        "fechaSubidaT": "29-05-2023",
+        "fechaLimiteT": "30-05-2023"
+    },
+    {
+        "id": 2,
+        "estadoT": true,
+        "marcarT": true,
+        "admin": "Andrey",
+        "usuario": "Iberson",
+        "nombreT": "Tarea número dos",
+        "descripcionT": "Debe de realizar la tarea número uno siguiendo los proocolos.",
+        "fechaSubidaT": "29-05-2023",
+        "fechaLimiteT": "30-05-2023"
+    },
+    {
+        "id": 3,
+        "estadoT": false,
+        "marcarT": false,
+        "admin": "Andrey",
+        "usuario": "Iberson",
+        "nombreT": "Tarea número tres",
+        "descripcionT": "Debe de realizar la tarea número uno siguiendo los proocolos.",
+        "fechaSubidaT": "29-05-2023",
+        "fechaLimiteT": "30-05-2023"
+    },
+    {
+        "id": 4,
+        "estadoT": false,
+        "marcarT": true,
+        "admin": "Andrey",
+        "usuario": "Iberson",
+        "nombreT": "Tarea número cuatro",
+        "descripcionT": "Debe de realizar la tarea número uno siguiendo los proocolos.",
+        "fechaSubidaT": "29-05-2023",
+        "fechaLimiteT": "30-05-2023"
+    },
+    {
+        "id": 5,
+        "estadoT": true,
+        "marcarT": true,
+        "admin": "Andrey",
+        "usuario": "Iberson",
+        "nombreT": "Tarea número cinco",
+        "descripcionT": "Debe de realizar la tarea número uno siguiendo los proocolos.",
+        "fechaSubidaT": "29-05-2023",
+        "fechaLimiteT": "30-05-2023"
+    },
+    {
+        "id": 6,
+        "estadoT": false,
+        "marcarT": false,
+        "admin": "Andrey",
+        "usuario": "Iberson",
+        "nombreT": "Tarea número seis",
+        "descripcionT": "Debe de realizar la tarea número uno siguiendo los proocolos.",
+        "fechaSubidaT": "29-05-2023",
+        "fechaLimiteT": "30-05-2023"
+    }
+]
