@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+.warning{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: aqua;
+    padding-top: 20px;
+}
+
+.footer{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.foot{
+    background-color: rgba(0, 0, 0, 0.025);
+}
+
+a{
+    text-decoration: none;
+    color: white;    
+}
+a:hover{
+    text-decoration: none;
+    color: aqua;
+}
