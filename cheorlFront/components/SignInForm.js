@@ -16,7 +16,7 @@ const SignInForm = () => {
                 </div>
                 <div class="form-group">
                   <br>
-                    <label for="password">Selecciona tu Rol</label>
+                    <label for="">Selecciona tu Rol</label>
                     <select name="" id="" class="form-control">
                       <option selected disabled>Rol...</option>
                       <option value="admin">Administrador</option>
